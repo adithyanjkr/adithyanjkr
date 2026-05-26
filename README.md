@@ -59,15 +59,42 @@
 
 ### 🚀 Key Projects & Deployments
 
-* 📁 **`🌐 Secure Wireless Network Design`** * *Enterprise Network Infrastructure Simulation inside Cisco Packet Tracer.*
-    * Deployed **VLAN Segmentation**, **Access Control Lists (ACLs)**, **WPA2 Encryption**, and **MAC Filtering** to harden infrastructure baselines against unauthorized access.
+<div style="font-family: sans-serif; line-height: 1.6;">
+  
+  <!-- Project 1 -->
+  <div style="margin-bottom: 20px; padding: 10px; border-left: 4px solid #557C93; background: transparent;">
+    <p style="margin: 0; font-weight: bold;">
+      📁 <code>🌐 Secure Wireless Network Design</code> | 
+      <i style="font-weight: normal; color: #888;">Enterprise Network Infrastructure Simulation (Cisco Packet Tracer)</i>
+    </p>
+    <ul style="margin: 5px 0 0 20px; padding: 0; list-style-type: square;">
+      <li>Deployed <b>VLAN Segmentation</b>, <b>Access Control Lists (ACLs)</b>, <b>WPA2 Encryption</b>, and <b>MAC Filtering</b> to harden infrastructure baselines against unauthorized access.</li>
+    </ul>
+  </div>
 
-* 📁 **`📄 TransumDocs`** * *Automated Document Processing & Extraction Engine (Python/HTML).*
-    * Features automated OCR image-to-text extraction, PDF parsing, and native text summarization pipelines.
+  <!-- Project 2 -->
+  <div style="margin-bottom: 20px; padding: 10px; border-left: 4px solid #4B0082; background: transparent;">
+    <p style="margin: 0; font-weight: bold;">
+      📁 <code>📄 TransumDocs</code> | 
+      <i style="font-weight: normal; color: #888;">Automated Document Processing & Extraction Engine (Python/HTML)</i>
+    </p>
+    <ul style="margin: 5px 0 0 20px; padding: 0; list-style-type: square;">
+      <li>Features automated OCR image-to-text extraction, PDF parsing, and native text summarization pipelines.</li>
+    </ul>
+  </div>
 
-* 📁 **` 🛒 Smart-Bite`** * *Full-Stack Automated Management Application (PHP/MySQL).*
+  <!-- Project 3 -->
+  <div style="margin-bottom: 20px; padding: 10px; border-left: 4px solid #FF6600; background: transparent;">
+    <p style="margin: 0; font-weight: bold;">
+      📁 <code>🛒 Smart-Bite</code> | 
+      <i style="font-weight: normal; color: #888;">Full-Stack Automated Management Application (PHP/MySQL)</i>
+    </p>
+    <ul style="margin: 5px 0 0 20px; padding: 0; list-style-type: square;">
+      <li>Developed a canteen automation system with secure user authentication and real-time inventory synchronization to ensure transactional integrity and seamless order tracking.</li>
+    </ul>
+  </div>
 
-    * Developed a canteen automation system with secure user authentication and real-time inventory synchronization to ensure transactional integrity and seamless order tracking.
+</div>
 
 ---
 
