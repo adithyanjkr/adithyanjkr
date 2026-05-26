@@ -31,11 +31,6 @@ An offensive-minded and defensive-ready Cybersecurity professional with a solid 
 
 ### 🚀 Key Projects & Labs
 
-#### 🛠️ METATRON (In Development)
-*An advanced offensive/defensive operations framework.*
-- **Tech Stack:** Python, MariaDB
-- **Focus:** Automation of technical infrastructure assessments, structured local asset management, and streamlined offensive workflows.
-
 #### 🌐 Secure Wireless Network Design (Enterprise Simulation)
 *Network Architecture & Optimization Internship Project*
 - Engineered and simulated a highly resilient enterprise-grade wireless infrastructure inside **Cisco Packet Tracer**.
