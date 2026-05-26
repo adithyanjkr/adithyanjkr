@@ -12,17 +12,20 @@ An offensive-minded and defensive-ready Cybersecurity professional with a solid 
 - **Vulnerability Research:** Active Bug Hunting (HackerOne, Bugcrowd, huntr) and coordinated disclosure via CERT-In.
 
 ---
-
 ### 🛠️ Technical Toolkit
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Security & Penetration Testing** | Kali Linux, Burp Suite Professional, Metasploit, Nmap, Wireshark, Gobuster |
-| **Networking & Simulation** | Cisco Packet Tracer, TCP/IP, DNS, DHCP, HTTP/HTTPS, VLAN, ACLs |
-| **Programming & Scripting** | Python, C, C++, Java, Basic JavaScript |
-| **Web Technologies & Databases** | HTML, CSS, PHP, MySQL, MariaDB |
-| **Virtualization & Environments** | VMware, VirtualBox |
-| **Design & Post-Production** | Adobe After Effects, Adobe Photoshop, Lightroom, CapCut |
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Burp%20Suite%20Pro-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite Professional" />
+  <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-006699?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-4F5D75?style=for-the-badge&logo=security&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white" alt="Snort" />
+  <img src="https://img.shields.io/badge/Nuclei-4B0082?style=for-the-badge&logo=linux-foundation&logoColor=white" alt="Nuclei" />
+  <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=terminal&logoColor=4AF626" alt="Gobuster" />
+</p>
 
 ---
 
