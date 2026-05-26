@@ -3,12 +3,11 @@
 # 🔴 `[ root@adithyan:~ ]# whoami`
 #   ADITHYAN V 
 <div align="center">
+<div align="center">
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  CYBER SECURITY RESEARCHER  │  CERTIFIED SOC ANALYST  │  BUG BOUNTY HUNTER  │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+### 🛡️ CYBER SECURITY RESEARCHER • CERTIFIED SOC ANALYST • BUG BOUNTY HUNTER
+
+</div>
 <p align="center">
   <a href="https://linkedin.com/in/adithyan-v-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:adithyanv783@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
