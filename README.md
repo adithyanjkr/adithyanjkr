@@ -41,11 +41,14 @@
       <td><img src="https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" /></td>
       <td><img src="https://img.shields.io/badge/Burp%20Suite%20Pro-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp" /></td>
       <td><img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /></td>
-      <td><img src="https://img.shields.io/badge/Metasploit-006699?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /></td>
     </tr>
     <tr>
+      <td><img src="https://img.shields.io/badge/Metasploit-006699?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /></td>
       <td><img src="https://img.shields.io/badge/Nmap-4F5D75?style=for-the-badge&logo=security&logoColor=white" alt="Nmap" /></td>
       <td><img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white" alt="Snort" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=FF4B00" alt="Splunk" /></td>
       <td><img src="https://img.shields.io/badge/Nuclei-4B0082?style=for-the-badge&logo=linux-foundation&logoColor=white" alt="Nuclei" /></td>
       <td><img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=terminal&logoColor=4AF626" alt="Gobuster" /></td>
     </tr>
@@ -62,8 +65,9 @@
 * 📁 **`📄 TransumDocs`** * *Automated Document Processing & Extraction Engine (Python/HTML).*
     * Features automated OCR image-to-text extraction, PDF parsing, and native text summarization pipelines.
 
-* 📁 **`🛒 Smart-Bite`** * *Full-Stack Automated Management Application (PHP/MySQL).*
-    * Engineered secure user authentication modules coupled with transactional database integrity for live order tracking.
+* 📁 **` 🛒 Smart-Bite`** * *Full-Stack Automated Management Application (PHP/MySQL).*
+
+    * Developed a canteen automation system with secure user authentication and real-time inventory synchronization to ensure transactional integrity and seamless order tracking.
 
 ---
 
