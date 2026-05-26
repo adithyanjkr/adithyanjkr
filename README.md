@@ -59,38 +59,35 @@
 
 ### 🚀 Key Projects & Deployments
 
-<div style="font-family: sans-serif; line-height: 1.6;">
+<div style="font-family: sans-serif; line-height: 1.6; text-align: left;">
   
-  <!-- Project 1 -->
-  <div style="margin-bottom: 20px; padding: 10px; border-left: 4px solid #557C93; background: transparent;">
-    <p style="margin: 0; font-weight: bold;">
+  <div style="margin-bottom: 20px; text-align: left;">
+    <p style="margin: 0; font-weight: bold; text-align: left;">
       📁 <code>🌐 Secure Wireless Network Design</code> | 
-      <i style="font-weight: normal; color: #888;">Enterprise Network Infrastructure Simulation (Cisco Packet Tracer)</i>
+      <span style="font-weight: normal; color: #888;">Enterprise Network Infrastructure Simulation (Cisco Packet Tracer)</span>
     </p>
-    <ul style="margin: 5px 0 0 20px; padding: 0; list-style-type: square;">
-      <li>Deployed <b>VLAN Segmentation</b>, <b>Access Control Lists (ACLs)</b>, <b>WPA2 Encryption</b>, and <b>MAC Filtering</b> to harden infrastructure baselines against unauthorized access.</li>
+    <ul style="margin: 5px 0 0 20px; padding: 0; list-style-type: square; text-align: left;">
+      <li style="text-align: left;">Deployed <b>VLAN Segmentation</b>, <b>Access Control Lists (ACLs)</b>, <b>WPA2 Encryption</b>, and <b>MAC Filtering</b> to harden infrastructure baselines against unauthorized access.</li>
     </ul>
   </div>
 
-  <!-- Project 2 -->
-  <div style="margin-bottom: 20px; padding: 10px; border-left: 4px solid #4B0082; background: transparent;">
-    <p style="margin: 0; font-weight: bold;">
+  <div style="margin-bottom: 20px; text-align: left;">
+    <p style="margin: 0; font-weight: bold; text-align: left;">
       📁 <code>📄 TransumDocs</code> | 
-      <i style="font-weight: normal; color: #888;">Automated Document Processing & Extraction Engine (Python/HTML)</i>
+      <span style="font-weight: normal; color: #888;">Automated Document Processing & Extraction Engine (Python/HTML)</span>
     </p>
-    <ul style="margin: 5px 0 0 20px; padding: 0; list-style-type: square;">
-      <li>Features automated OCR image-to-text extraction, PDF parsing, and native text summarization pipelines.</li>
+    <ul style="margin: 5px 0 0 20px; padding: 0; list-style-type: square; text-align: left;">
+      <li style="text-align: left;">Features automated OCR image-to-text extraction, PDF parsing, and native text summarization pipelines.</li>
     </ul>
   </div>
 
-  <!-- Project 3 -->
-  <div style="margin-bottom: 20px; padding: 10px; border-left: 4px solid #FF6600; background: transparent;">
-    <p style="margin: 0; font-weight: bold;">
+  <div style="margin-bottom: 20px; text-align: left;">
+    <p style="margin: 0; font-weight: bold; text-align: left;">
       📁 <code>🛒 Smart-Bite</code> | 
-      <i style="font-weight: normal; color: #888;">Full-Stack Automated Management Application (PHP/MySQL)</i>
+      <span style="font-weight: normal; color: #888;">Full-Stack Automated Management Application (PHP/MySQL)</span>
     </p>
-    <ul style="margin: 5px 0 0 20px; padding: 0; list-style-type: square;">
-      <li>Developed a canteen automation system with secure user authentication and real-time inventory synchronization to ensure transactional integrity and seamless order tracking.</li>
+    <ul style="margin: 5px 0 0 20px; padding: 0; list-style-type: square; text-align: left;">
+      <li style="text-align: left;">Developed a canteen automation system with secure user authentication and real-time inventory synchronization to ensure transactional integrity and seamless order tracking.</li>
     </ul>
   </div>
 
