@@ -129,13 +129,16 @@
 
 ---
 
+<div align="left">
+
 ### 🎓 Certifications & Verification
 
-- 🎖️ **Certified IT Infrastructure and Cyber SOC Analyst (CICSA)** | *Red Team Hacker Academy* `[In Progress]`
+- 🎖️ **Certified SOC Analyst (CSA)** | *Red Team Hacker Academy* `[In Progress]`
 - 🎓 **Bachelor of Computer Applications (BCA) - Cyber Security & Cloud Computing**
 - 📜 **Advanced Diploma in Cyber Security and Cloud Computing** | *STED Council / SDCC*
 - 🛡️ **Cisco Networking Academy Profiles:** *Cybersecurity Essentials*, *Introduction to Cybersecurity*, *Packet Tracer Certification*
 
+</div>
 ---
 
 <div align="center">
