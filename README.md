@@ -9,6 +9,7 @@
 
 </div>
 <p align="center">
+  <a href="https://github.com/adi783885"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/adithyan-v-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:adithyanv783@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://tryhackme.com/p/adthynv"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=FF4D4D" alt="TryHackMe" /></a>
@@ -122,6 +123,7 @@
 
 </div>
 </div>
+
 ---
   
 ### 👨‍💻 Intelligence Platforms & Targets
@@ -132,6 +134,7 @@
 * ⚔️ **Interactive Lab Operations:** Network Enumeration, Privilege Escalation, and Advanced Web Labs across **TryHackMe**, **HackTheBox**, and **PortSwigger Academy**.
 
 </div>
+
 ---
 
 ### 🎓 Certifications & Verification
@@ -144,6 +147,7 @@
 - 🛡️ **Cisco Networking Academy Profiles:** *Cybersecurity Essentials*, *Introduction to Cybersecurity*, *Packet Tracer Certification*
 
 </div>
+
 ---
 
 <div align="center">
