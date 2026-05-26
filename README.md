@@ -56,9 +56,10 @@
 </div>
 
 ---
-<div align="left">
-### 🚀 Key Projects & Deployments
 
+### 🚀 **Key Projects & Deployments**
+
+<div align="left">
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; text-align: left; width: 100%; max-width: 100%; padding: 0; margin: 0;">
   
   <!-- Project 1 -->
@@ -122,20 +123,22 @@
 </div>
 </div>
 ---
-<div align="left">
   
 ### 👨‍💻 Intelligence Platforms & Targets
+
+<div align="left">
+
 * 🎯 **Bug Hunting & Coordinated Disclosure:** **CERT-In** (Assigned Case IDs for Kerala Government Web Infrastructure validation), HackerOne, Bugcrowd, and huntr.
 * ⚔️ **Interactive Lab Operations:** Network Enumeration, Privilege Escalation, and Advanced Web Labs across **TryHackMe**, **HackTheBox**, and **PortSwigger Academy**.
 
 </div>
 ---
 
-<div align="left">
-
 ### 🎓 Certifications & Verification
 
-- 🎖️ **Certified SOC Analyst (CSA)** | *Red Team Hacker Academy* `[In Progress]`
+<div align="left">
+
+  - 🎖️ **Certified SOC Analyst (CSA)** | *Red Team Hacker Academy* `[In Progress]`
 - 🎓 **Bachelor of Computer Applications (BCA) - Cyber Security & Cloud Computing**
 - 📜 **Advanced Diploma in Cyber Security and Cloud Computing** | *STED Council / SDCC*
 - 🛡️ **Cisco Networking Academy Profiles:** *Cybersecurity Essentials*, *Introduction to Cybersecurity*, *Packet Tracer Certification*
