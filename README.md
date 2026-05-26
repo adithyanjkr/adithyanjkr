@@ -1,78 +1,85 @@
-# 👋 Hi, I'm Adithyan V
+<div align="center">
 
-### Cyber SOC Analyst (CICSA) Student | Cybersecurity Researcher | Bug Bounty Hunter
+# ⚡ `𝕬𝖉𝖎𝖙𝖍𝖞𝖆𝖓 𝖁` ⚡
+### 💻 𝖈𝖞𝖇𝖊𝖗_𝖘𝖊𝖈𝖚𝖗𝖎𝖙𝖞_𝖗𝖊𝖘𝖊𝖆𝖗𝖈𝖍𝖊𝖗 || 𝖇𝖚𝖌_𝖇𝖔𝖚𝖓𝖙𝖞_𝖍𝖚𝖓𝖙𝖊𝖗 
 
-An offensive-minded and defensive-ready Cybersecurity professional with a solid foundation in Cyber Security, Cloud Computing, and Infrastructure Defense. I balance my time actively hunting for high-severity vulnerabilities across global bug bounty platforms and reporting critical infrastructure flaws to government frameworks, while mastering SOC Operations, Log Analysis, and Incident Response.
+<p align="center">
+  <a href="https://linkedin.com/in/adithyan-v-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:adithyanv783@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+[span_0](start_span)🤖 **`SYSTEM OVERVIEW`** An offensive-minded and defensive-ready Cybersecurity professional specializing in VAPT, Cloud Infrastructure Defense, and active Bug Hunting[span_0](end_span). [span_1](start_span)Dual-hatted in uncovering critical infrastructure flaws while mastering SOC Operations, Log Analysis, and Incident Response[span_1](end_span).
+
+[span_2](start_span)`[ Find the gaps ──> Defend the infrastructure ]`[span_2](end_span)
 
 ---
 
-### 🛡️ Core Cybersecurity Focus Areas
-- **Application Security & VAPT:** Web Application Penetration Testing, Source Code Auditing, Vulnerability Assessment.
-- **Defensive Operations & SOC:** Log Analysis, Traffic & Packet Analysis, Incident Detection & Response, Network Segmentation.
-- **Vulnerability Research:** Active Bug Hunting (HackerOne, Bugcrowd, huntr) and coordinated disclosure via CERT-In.
+### 🛡️ Core Focus Areas
+| 🔴 OFFENSIVE | 🔵 DEFENSIVE |
+| :--- | :--- |
+| **VAPT & Web App Testing** | **[span_3](start_span)SOC Operations & Log Analysis**[span_3](end_span) |
+| **Source Code Auditing** | **[span_4](start_span)Traffic & Packet Analysis**[span_4](end_span) |
+| **[span_5](start_span)Vulnerability Research**[span_5](end_span) | **[span_6](start_span)Incident Detection & Response**[span_6](end_span) |
+
+</div>
 
 ---
+
 ### 🛠️ Technical Toolkit
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Burp%20Suite%20Pro-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite Professional" />
-  <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-006699?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-4F5D75?style=for-the-badge&logo=security&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white" alt="Snort" />
-  <img src="https://img.shields.io/badge/Nuclei-4B0082?style=for-the-badge&logo=linux-foundation&logoColor=white" alt="Nuclei" />
-  <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=terminal&logoColor=4AF626" alt="Gobuster" />
-</p>
+<div align="center">
+  <table border="0" style="border: none; background: transparent;">
+    <tr>
+      <td><img src="https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" /></td>
+      <td><img src="https://img.shields.io/badge/Burp%20Suite%20Pro-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp" /></td>
+      <td><img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /></td>
+      <td><img src="https://img.shields.io/badge/Metasploit-006699?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Nmap-4F5D75?style=for-the-badge&logo=security&logoColor=white" alt="Nmap" /></td>
+      <td><img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white" alt="Snort" /></td>
+      <td><img src="https://img.shields.io/badge/Nuclei-4B0082?style=for-the-badge&logo=linux-foundation&logoColor=white" alt="Nuclei" /></td>
+      <td><img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=terminal&logoColor=4AF626" alt="Gobuster" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🚀 Key Projects & Labs
+### 🚀 Key Projects & Deployments
 
-#### 🌐 Secure Wireless Network Design (Enterprise Simulation)
-*Network Architecture & Optimization Internship Project*
-- Engineered and simulated a highly resilient enterprise-grade wireless infrastructure inside **Cisco Packet Tracer**.
-- Implemented robust security baselines including **VLAN Segmentation**, **Access Control Lists (ACLs)**, **WPA2 Enterprise Encryption**, and **MAC Filtering** to mitigate unauthorized lateral movement.
-- Validated performance and handshake verification across TCP/IP, DNS, DHCP, and HTTPS protocols.
+* [span_7](start_span)📁 **`🌐 Secure Wireless Network Design`** * *Enterprise Network Infrastructure Simulation inside Cisco Packet Tracer.*[span_7](end_span)
+    * [span_8](start_span)[span_9](start_span)Deployed **VLAN Segmentation**, **Access Control Lists (ACLs)**, **WPA2 Encryption**, and **MAC Filtering** to harden infrastructure baselines against unauthorized access[span_8](end_span)[span_9](end_span).
 
-#### 📄 TransumDocs
-*Automated Document Processing & Intelligence Platform*
-- Designed a dual-module (Admin/User) application using **Python** and **HTML** to streamline file ingestion.
-- Built-in capabilities feature automated text extraction from scanned images (OCR), conversion of PDFs to editable text format, and intelligent localized content summarization.
+* 📁 **`📄 TransumDocs`**
+    * *[span_10](start_span)Automated Document Processing & Extraction Engine (Python/HTML).*[span_10](end_span)
+    * [span_11](start_span)[span_12](start_span)Features automated OCR image-to-text extraction, PDF parsing, and native text summarization pipelines[span_11](end_span)[span_12](end_span).
 
-#### 🛒 Smart-Bite
-*Full-Stack Canteen Automation & Management System*
-- Built a secure web application using **PHP** and **MySQL** handling real-time order tracking, event bookings, and continuous inventory management.
-- Hardened authentication vectors to secure data transactions and synced real-time inventory adjustments to bypass race conditions or stock discrepancies.
+* 📁 **`🛒 Smart-Bite`**
+    * *[span_13](start_span)Full-Stack Automated Management Application (PHP/MySQL).*[span_13](end_span)
+    * [span_14](start_span)Engineered secure user authentication modules coupled with transactional database integrity for live order tracking[span_14](end_span).
 
 ---
 
-### 👨‍💻 Active Platforms & Hands-on Training
-- **Bug Hunting & Disclosure:** Managed reporting lines through **CERT-In** (Assigned Case IDs for Kerala Government Web Infrastructure flaws), HackerOne, Bugcrowd, and huntr.
-- **Interactive Labs:** Continual adversarial and defensive progression via **TryHackMe**, **HackTheBox**, and **PortSwigger Web Security Academy** (focusing on Network Enumeration, Privilege Escalation, and Top 10 vulnerabilities).
+### 👨‍💻 Intelligence Platforms & Targets
+* [span_15](start_span)🎯 **Bug Hunting & Coordinated Disclosure:** **CERT-In** (Assigned Case IDs for Kerala Government Web Infrastructure validation)[span_15](end_span)[span_16](start_span), HackerOne, Bugcrowd, and huntr[span_16](end_span).
+* [span_17](start_span)⚔️ **Interactive Lab Operations:** Network Enumeration, Privilege Escalation, and Advanced Web Labs across **TryHackMe**, **HackTheBox**, and **PortSwigger Academy**[span_17](end_span).
 
 ---
 
-### 🎓 Qualifications & Certifications
+### 🎓 Certifications & Verification
 
-- **Certified IT Infrastructure and Cyber SOC Analyst (CICSA)** | *Red Team Hacker Academy, Trivandrum* (In Progress)
-- **Bachelor of Computer Applications (BCA) in Cyber Security & Cloud Computing** | *Indira Gandhi College Of Arts And Science, Ernakulam* (2022 - 2025)
-- **Advanced Diploma in Cyber Security and Cloud Computing** | *GITH Global India Techno Hub / STED Council / Skill Development Council Canada*
-- **Cybersecurity with AI (Virtual Internship)** | *NIIT Foundation & Cisco Networking Academy*
-- **Cisco Networking Academy Certifications:**
-  - *Introduction to Cybersecurity*
-  - *Cybersecurity Essentials*
-  - *Getting Started with Cisco Packet Tracer (Achievement)*
+- 🎖️ **Certified IT Infrastructure and Cyber SOC Analyst (CICSA)** | *[span_18](start_span)Red Team Hacker Academy* `[In Progress]`[span_18](end_span)
+- [span_19](start_span)[span_20](start_span)🎓 **Bachelor of Computer Applications (BCA) - Cyber Security & Cloud Computing**[span_19](end_span)[span_20](end_span)
+- 📜 **Advanced Diploma in Cyber Security and Cloud Computing** | *[span_21](start_span)[span_22](start_span)STED Council / SDCC*[span_21](end_span)[span_22](end_span)
+- [span_23](start_span)🛡️ **Cisco Networking Academy Profiles:** *Cybersecurity Essentials*, *Introduction to Cybersecurity*, *Packet Tracer Certification*[span_23](end_span)
 
 ---
 
-### 📬 Connect with Me
+<div align="center">
 
-- 💼 **LinkedIn:** [linkedin.com/in/adithyan-v-](https://linkedin.com/in/adithyan-v-/)
-- 💻 **GitHub:** [github.com/adi783885](https://github.com/adi783885)
-- 📧 **Email:** [adithyanv783@gmail.com](mailto:adithyanv783@gmail.com)
+[span_24](start_span)`[⚡] SECURING THE FULL DIGITAL LIFECYCLE [⚡]`[span_24](end_span)
 
----
-*“From finding the gaps to defending the infrastructure — Securing the full digital lifecycle.”*
+</div>
