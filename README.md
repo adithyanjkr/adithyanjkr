@@ -59,17 +59,18 @@
 
 ### 🚀 Key Projects & Deployments
 
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; text-align: left; width: 100%;">
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; text-align: left; width: 100%; max-width: 100%; padding: 0; margin: 0;">
   
-  <div style="margin-bottom: 30px; text-align: left;">
-    <p style="margin: 0 0 5px 0; font-size: 1.1em; font-weight: bold; text-align: left;">
+  <!-- Project 1 -->
+  <div style="margin-bottom: 25px; text-align: left;">
+    <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
       📁 <code>🌐 Secure Wireless Network Design</code> | 
       <span style="font-weight: normal; color: #666;">Cisco Packet Tracer</span>
     </p>
-    <div style="margin: 0 0 8px 0; font-size: 0.9em; color: #888; font-weight: 500; text-align: left;">
+    <div style="margin: 2px 0 8px 0; font-size: 0.9em; color: #888; font-weight: 500; text-align: left;">
       🗓️ Jan 2025 – Feb 2025
     </div>
-    <ul style="margin: 0; padding-left: 20px; list-style-type: square; text-align: left;">
+    <ul style="margin: 0; padding: 0; list-style-position: inside; list-style-type: square; text-align: left;">
       <li style="margin-bottom: 4px; text-align: left;">Engineered a secure wireless network infrastructure utilizing a Static WAN IP and WPA2 Encryption.</li>
       <li style="margin-bottom: 4px; text-align: left;">Deployed <b>VLAN Segmentation</b> and <b>Access Control Lists (ACLs)</b> to harden network baselines.</li>
       <li style="margin-bottom: 4px; text-align: left;">Implemented <b>MAC Filtering</b> and strong admin credentialing to prevent unauthorized access.</li>
@@ -78,17 +79,18 @@
     </ul>
   </div>
 
-  <hr style="border: 0; border-top: 1px dashed #ddd; margin: 20px 0;" />
+  <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0; width: 100%;" />
 
-  <div style="margin-bottom: 30px; text-align: left;">
-    <p style="margin: 0 0 5px 0; font-size: 1.1em; font-weight: bold; text-align: left;">
+  <!-- Project 2 -->
+  <div style="margin-bottom: 25px; text-align: left;">
+    <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
       📁 <code>📄 TransumDocs</code> | 
       <span style="font-weight: normal; color: #666;">Python & HTML</span>
     </p>
-    <div style="margin: 0 0 8px 0; font-size: 0.9em; color: #888; font-weight: 500; text-align: left;">
+    <div style="margin: 2px 0 8px 0; font-size: 0.9em; color: #888; font-weight: 500; text-align: left;">
       🗓️ Jan 2025 – Mar 2025
     </div>
-    <ul style="margin: 0; padding-left: 20px; list-style-type: square; text-align: left;">
+    <ul style="margin: 0; padding: 0; list-style-position: inside; list-style-type: square; text-align: left;">
       <li style="margin-bottom: 4px; text-align: left;">Developed an automated system for document processing, summarization, and management.</li>
       <li style="margin-bottom: 4px; text-align: left;">Integrated <b>OCR image-to-text translation</b> and PDF-to-text conversion pipelines.</li>
       <li style="margin-bottom: 4px; text-align: left;">Built distinct <b>Admin and User modules</b> to streamline professional document workflows.</li>
@@ -97,17 +99,18 @@
     </ul>
   </div>
 
-  <hr style="border: 0; border-top: 1px dashed #ddd; margin: 20px 0;" />
+  <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0; width: 100%;" />
 
-  <div style="margin-bottom: 20px; text-align: left;">
-    <p style="margin: 0 0 5px 0; font-size: 1.1em; font-weight: bold; text-align: left;">
+  <!-- Project 3 -->
+  <div style="margin-bottom: 25px; text-align: left;">
+    <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
       📁 <code>🛒 Smart-Bite</code> | 
       <span style="font-weight: normal; color: #666;">PHP & MySQL</span>
     </p>
-    <div style="margin: 0 0 8px 0; font-size: 0.9em; color: #888; font-weight: 500; text-align: left;">
+    <div style="margin: 2px 0 8px 0; font-size: 0.9em; color: #888; font-weight: 500; text-align: left;">
       🗓️ Jun 2024 – Nov 2024
     </div>
-    <ul style="margin: 0; padding-left: 20px; list-style-type: square; text-align: left;">
+    <ul style="margin: 0; padding: 0; list-style-position: inside; list-style-type: square; text-align: left;">
       <li style="margin-bottom: 4px; text-align: left;">Developed a full-stack canteen automation system for menu, order, and inventory management.</li>
       <li style="margin-bottom: 4px; text-align: left;">Integrated <b>secure user authentication</b> to protect customer and administrative data.</li>
       <li style="margin-bottom: 4px; text-align: left;">Engineered <b>real-time order–inventory synchronization</b> to prevent stock-outs.</li>
