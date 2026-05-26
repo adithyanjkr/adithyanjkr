@@ -1,12 +1,13 @@
 <div align="center">
 
 # 🔴 `[ root@adithyan:~ ]# whoami`
-# 💀 ADITHYAN V 💀
-### ⚙️ `cyber_security_researcher` || `bug_bounty_hunter`
+#   ADITHYAN V 
+### ⚙️ `Cyber_Security_Researcher` || `Certified_Soc_Analyst` || `Bug_Bounty_Hunter`
 
 <p align="center">
   <a href="https://linkedin.com/in/adithyan-v-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:adithyanv783@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tryhackme.com/p/adthynv"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=FF4D4D" alt="TryHackMe" /></a>
 </p>
 
 ---
