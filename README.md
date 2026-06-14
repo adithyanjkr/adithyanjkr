@@ -65,12 +65,9 @@
 
   <div style="margin-bottom: 25px; text-align: left;">
     <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
-      📁 <code>🚨 xss-snort3-detection</code> | 
+      📁 <code>🚨 Xss Snort3 Detection</code> | 
       <span style="font-weight: normal; color: #666;">Python, Snort 3 & Linux</span>
     </p>
-    <div style="margin: 2px 0 8px 0; font-size: 0.9em; color: #888; font-weight: 500; text-align: left;">
-      🗓️ May 2026 – Jun 2026
-    </div>
     <ul style="margin: 0; padding: 0; list-style-position: inside; list-style-type: square; text-align: left;">
       <li style="margin-bottom: 4px; text-align: left;">Designed a hands-on VAPT lab deploying a local Python Flask web application intentionally left vulnerable to Reflected XSS.</li>
       <li style="margin-bottom: 4px; text-align: left;">Engineered custom <b>Snort 3 IDS network signatures</b> targeting malicious script tags and raw payload injection patterns.</li>
