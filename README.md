@@ -59,11 +59,29 @@
 ---
 
 ### 🚀 **Key Projects & Deployments**
-
+<!-- Project 1 -->
 <div align="left">
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; text-align: left; width: 100%; max-width: 100%; padding: 0; margin: 0;">
-  
-  <!-- Project 1 -->
+
+  <div style="margin-bottom: 25px; text-align: left;">
+    <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
+      📁 <code>🚨 xss-snort3-detection</code> | 
+      <span style="font-weight: normal; color: #666;">Python, Snort 3 & Linux</span>
+    </p>
+    <div style="margin: 2px 0 8px 0; font-size: 0.9em; color: #888; font-weight: 500; text-align: left;">
+      🗓️ May 2026 – Jun 2026
+    </div>
+    <ul style="margin: 0; padding: 0; list-style-position: inside; list-style-type: square; text-align: left;">
+      <li style="margin-bottom: 4px; text-align: left;">Designed a hands-on VAPT lab deploying a local Python Flask web application intentionally left vulnerable to Reflected XSS.</li>
+      <li style="margin-bottom: 4px; text-align: left;">Engineered custom <b>Snort 3 IDS network signatures</b> targeting malicious script tags and raw payload injection patterns.</li>
+      <li style="margin-bottom: 4px; text-align: left;">Monitored loopback adapter interface streams to analyze network traffic buffers and capture live security flags.</li>
+      <li style="margin-bottom: 4px; text-align: left;">Successfully generated real-time diagnostic terminal alert logs mapping incoming web-layer exploits instantaneously.</li>
+      <li style="margin-bottom: 4px; text-align: left;">Documented secure coding input-escaping remediation methods alongside active inline network blocking rule configurations.</li>
+    </ul>
+  </div>
+
+  <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0; width: 100%;" />
+  <!-- Project 2 -->
   <div style="margin-bottom: 25px; text-align: left;">
     <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
       📁 <code>🌐 Secure Wireless Network Design</code> | 
@@ -83,7 +101,7 @@
 
   <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0; width: 100%;" />
 
-  <!-- Project 2 -->
+  <!-- Project 3 -->
   <div style="margin-bottom: 25px; text-align: left;">
     <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
       📁 <code>📄 TransumDocs</code> | 
@@ -103,7 +121,7 @@
 
   <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0; width: 100%;" />
 
-  <!-- Project 3 -->
+  <!-- Project 4 -->
   <div style="margin-bottom: 25px; text-align: left;">
     <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
       📁 <code>🛒 Smart-Bite</code> | 
