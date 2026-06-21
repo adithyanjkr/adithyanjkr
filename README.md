@@ -27,7 +27,7 @@
 | 🔴 OFFENSIVE | 🔵 DEFENSIVE |
 | :--- | :--- |
 | **VAPT & Web App Testing** | **SOC Operations & Log Analysis** |
-| **Source Code Auditing** | **Traffic & Packet Analysis** |
+| **Source Code Auditing** | **Threat Intelligence** |
 | **Vulnerability Research** | **Incident Detection & Response** |
 
 </div>
