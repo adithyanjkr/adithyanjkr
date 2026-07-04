@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=FF4B00" alt="Splunk" /></td>
-      <td><img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwQTRFRiIgZD0iTTEyIDBMMS4zNSA2LjE1djExLjdMMTIgMjRsMTAuNjUtNi4xNVY2LjE1TDExLjk5IDB6bTguNTUgMTYuNTVMMTIgMjEuNjVsLTguNTUtNS4xVjcuNDVMMTIgMi4zNWw4LjU1IDUuMXY5LjJ6bS00LjMtNy43NUwxMiAxMy40NWwtNC4yNS00LjY1TDUuMSA5Ljc1TDEyIDE3LjNsNi45LTcuNTV6Ii8+PC9zdmc+&logoColor=00A4EF" alt="Wazuh" /></td>
+      <td><img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwQTRFRiIgZD0iTTEuNSA0LjVoMjFsLTMuNSA0LjVoLTE0bC0zLjUtNC41em0zLjUgNmgyMWwtMy41IDQuNWgtMTRsLTMuNS00LjV6bTMuNSA2aDIxbC0zLjUgNC41aC0xNGwtMy41LTQuNXoiLz48L3N2Zz4=&logoColor=00A4EF" alt="Wazuh" /></td>
       <td><img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=terminal&logoColor=4AF626" alt="Gobuster" /></td>
     </tr>
   </table>
