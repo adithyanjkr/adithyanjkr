@@ -1,7 +1,6 @@
 <div align="center">
-| |
-| :---: |
-| **` A D I T H Y A N   V `** |
+
+# 𝗔𝗗𝗜𝗧𝗛𝗬𝗔𝗡 𝗩
 
 <div align="center">
 <div align="center">
