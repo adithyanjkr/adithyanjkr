@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪐 **ADITHYAN V**
+# **ADITHYAN V**
 ---
 
 <div align="center">
