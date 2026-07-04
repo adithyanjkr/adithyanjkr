@@ -1,12 +1,7 @@
 <div align="center">
 
-<p align="center">
-  <samp>
-    <b>A D I T H Y A N   V</b>
-    <br>
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  </samp>
-</p>
+# 🪐 **ADITHYAN V**
+---
 
 <div align="center">
 <div align="center">
