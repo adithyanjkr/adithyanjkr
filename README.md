@@ -1,6 +1,5 @@
 <div align="center">
 
-# 🔴 `[ root@adithyan:~ ]# whoami`
 #   ADITHYAN V 
 <div align="center">
 <div align="center">
