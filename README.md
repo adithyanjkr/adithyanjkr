@@ -1,8 +1,7 @@
 <div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=1&pause=0&color=00FF66&center=true&vCenter=true&width=500&height=100&lines=ADITHYAN+V" alt="ADITHYAN V" />
-</h1>
+▄▀█ █▀▄ █ ▀█▀ █ █ █ █ ▄▀█ █▄ █   █ █
+█▀█ █▄▀ █  █  █▀█ ▀▄▀ █▀█ █ ▀█    █
 
 <div align="center">
 <div align="center">
