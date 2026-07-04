@@ -1,6 +1,6 @@
 <div align="center">
 
-#   ADITHYAN V 
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=1&pause=0&color=F03E3E&center=false&vCenter=false&width=450&lines=ADITHYAN+V" alt="ADITHYAN V" />
 <div align="center">
 <div align="center">
 
