@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=FF4B00" alt="Splunk" /></td>
-      <td><img src="https://img.shields.io/badge/Nuclei-4B0082?style=for-the-badge&logo=linux-foundation&logoColor=white" alt="Nuclei" /></td>
+      <td><img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" /></td>
       <td><img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=terminal&logoColor=4AF626" alt="Gobuster" /></td>
     </tr>
   </table>
