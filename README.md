@@ -51,10 +51,7 @@
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=FF4B00" alt="Splunk" /></td>
-      <td>
-  <img src="wazuh.png" height="28" alt="Wazuh Logo" style="vertical-align: middle; margin-right: 4px;" />
-  <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge" alt="Wazuh" style="vertical-align: middle;" />
-</td>
+      <td><img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=00A4EF" alt="Wazuh" /></td>
       <td><img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=terminal&logoColor=4AF626" alt="Gobuster" /></td>
     </tr>
   </table>
