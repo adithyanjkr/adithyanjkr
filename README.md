@@ -97,8 +97,6 @@
     </ul>
   </div>
 
-  <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0; width: 100%;" />
-
 </div>
 </div>
 
