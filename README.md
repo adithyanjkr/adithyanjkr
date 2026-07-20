@@ -6,7 +6,7 @@
 <div align="center">
 <div align="center">
 
-### 🛡️ CYBER SECURITY RESEARCHER • CERTIFIED SOC ANALYST • BUG BOUNTY HUNTER
+### 🛡️ CYBER SECURITY RESEARCHER • CERTIFIED SOC ANALYST 
 
 </div>
 <p align="center">
