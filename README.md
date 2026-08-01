@@ -67,7 +67,7 @@
   <!-- VIPER-SOC -->
   <div style="margin-bottom: 25px; text-align: left;">
     <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
-      📁 <code>🐍 VIPER-SOC</code> | 
+      📁 <code>🐍 VIPER-SOC : Vulnerable IP & Payload Eradication Response</code> | 
       <span style="font-weight: normal; color: #666;">Wazuh SIEM, Python, AbuseIPDB & VirusTotal</span>
     </p>
     <ul style="margin: 0; padding: 0; list-style-position: inside; list-style-type: square; text-align: left;">
@@ -116,7 +116,8 @@
 
 <div align="left">
 
-  - 🎖️ **Certified SOC Analyst (CSA)** | *Red Team Hacker Academy* `[In Progress]`
+- 🎖️ **Certified SOC Analyst (CSA v2)** | *EC-Council*
+- 🏆 **Certified IT Infrastructure & Cyber SOC Analyst (CICSA v3)** | *Red Team Hacker Academy*
 - 🎓 **Bachelor of Computer Applications (BCA) - Cyber Security & Cloud Computing**
 - 📜 **Advanced Diploma in Cyber Security and Cloud Computing** | *STED Council / SDCC*
 - 🛡️ **Cisco Networking Academy Profiles:** *Cybersecurity Essentials*, *Introduction to Cybersecurity*, *Packet Tracer Certification*
