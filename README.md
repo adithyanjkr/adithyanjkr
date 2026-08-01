@@ -118,9 +118,8 @@
 
 - 🎖️ **Certified SOC Analyst (CSA v2)** | *EC-Council*
 - 🏆 **Certified IT Infrastructure & Cyber SOC Analyst (CICSA v3)** | *Red Team Hacker Academy*
-- 🎓 **Bachelor of Computer Applications (BCA) - Cyber Security & Cloud Computing**
-- 📜 **Advanced Diploma in Cyber Security and Cloud Computing** | *STED Council / SDCC*
-- 🛡️ **Cisco Networking Academy Profiles:** *Cybersecurity Essentials*, *Introduction to Cybersecurity*, *Packet Tracer Certification*
+- 🎓 **Bachelor of Computer Applications (BCA)** | *Indira Gandhi College of Arts And Science*
+- 📜 **Advanced Diploma in Cyber Security and Cloud Computing (Add-On)** | *STED Council / Skill Development Council Canada*
 
 </div>
 
