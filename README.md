@@ -64,9 +64,27 @@
 <div align="left">
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; text-align: left; width: 100%; max-width: 100%; padding: 0; margin: 0;">
 
+  <!-- VIPER-SOC -->
   <div style="margin-bottom: 25px; text-align: left;">
     <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
-      📁 <code>🚨 Xss Snort3 Detection</code> | 
+      📁 <code>🐍 VIPER-SOC</code> | 
+      <span style="font-weight: normal; color: #666;">Wazuh SIEM, Python, AbuseIPDB & VirusTotal</span>
+    </p>
+    <ul style="margin: 0; padding: 0; list-style-position: inside; list-style-type: square; text-align: left;">
+      <li style="margin-bottom: 4px; text-align: left;">Architected an automated dual-layer SIEM containment framework bridging live threat intelligence with host-level response.</li>
+      <li style="margin-bottom: 4px; text-align: left;">Engineered custom <b>AbuseIPDB API integrations</b> and Wazuh rules to block malicious network actors via <code>/etc/hosts.deny</code>.</li>
+      <li style="margin-bottom: 4px; text-align: left;">Configured real-time <b>File Integrity Monitoring (FIM)</b> integrated with VirusTotal to automatically purge malicious file payloads.</li>
+      <li style="margin-bottom: 4px; text-align: left;">Streamlined automated zero-touch active response playbooks, reducing Mean Time to Respond (MTTR) from minutes to milliseconds.</li>
+      <li style="margin-bottom: 4px; text-align: left;">Documented full SIEM rule configurations, architecture diagrams, and custom Python integration hooks in an open-source repo.</li>
+    </ul>
+  </div>
+
+  <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0; width: 100%;" />
+
+  <!-- Project 2 -->
+  <div style="margin-bottom: 25px; text-align: left;">
+    <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
+      📁 <code>🚨 XSS Snort3 Detection</code> | 
       <span style="font-weight: normal; color: #666;">Python, Snort 3 & Linux</span>
     </p>
     <ul style="margin: 0; padding: 0; list-style-position: inside; list-style-type: square; text-align: left;">
@@ -78,29 +96,8 @@
     </ul>
   </div>
 
-  <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0; width: 100%;" />
-  <!-- Project 2 -->
-  <div style="margin-bottom: 25px; text-align: left;">
-    <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
-      📁 <code>🌐 Secure Wireless Network Design</code> | 
-      <span style="font-weight: normal; color: #666;">Cisco Packet Tracer</span>
-    </p>
-    <div style="margin: 2px 0 8px 0; font-size: 0.9em; color: #888; font-weight: 500; text-align: left;">
-      🗓️ Jan 2025 – Feb 2025
-    </div>
-    <ul style="margin: 0; padding: 0; list-style-position: inside; list-style-type: square; text-align: left;">
-      <li style="margin-bottom: 4px; text-align: left;">Engineered a secure wireless network infrastructure utilizing a Static WAN IP and WPA2 Encryption.</li>
-      <li style="margin-bottom: 4px; text-align: left;">Deployed <b>VLAN Segmentation</b> and <b>Access Control Lists (ACLs)</b> to harden network baselines.</li>
-      <li style="margin-bottom: 4px; text-align: left;">Implemented <b>MAC Filtering</b> and strong admin credentialing to prevent unauthorized access.</li>
-      <li style="margin-bottom: 4px; text-align: left;">Validated security across <b>TCP/IP, DNS, DHCP, HTTP, and HTTPS</b> protocols.</li>
-      <li style="margin-bottom: 4px; text-align: left;">Conducted connectivity and performance testing to ensure high-availability and infrastructure integrity.</li>
-    </ul>
-  </div>
-
 </div>
 </div>
-
----
   
 ### 👨‍💻 Intelligence Platforms & Targets
 
