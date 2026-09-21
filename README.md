@@ -29,7 +29,7 @@
 | 🔴 OFFENSIVE | 🔵 DEFENSIVE |
 | :--- | :--- |
 | **VAPT & Web App Testing** | **SOC Operations & Log Analysis** |
-| **Threat Intelligence Analysis** | **Email Security & Phishing Triage** |
+| **Threat Intelligence Analysis** | **SIEM** |
 | **AI-Driven Vulnerability Discovery** | **Incident Detection & Response** |
 
 </div>
