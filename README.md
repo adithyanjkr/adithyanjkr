@@ -102,20 +102,55 @@
 
 ---
 
-## 🏆 Achievements
+<hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0; width: 100%;" />
+
+<h3>🏆 Achievements</h3>
 
 <div align="left">
 
-### 01/ Government Infrastructure Security Disclosures
-Independently identified and responsibly disclosed security vulnerabilities in **Kerala Government web infrastructure** through **CERT-In**, receiving official case IDs for reported findings.
+  <!-- Achievement 1 -->
+  <div style="margin-bottom: 25px; text-align: left;">
+    <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
+      🥇 <code>01/ Government Infrastructure Security Disclosures</code>
+    </p>
+    <ul style="margin: 0; padding: 0; list-style-position: inside; list-style-type: square; text-align: left;">
+      <li style="margin-bottom: 4px; text-align: left;">
+        Independently identified and responsibly disclosed security vulnerabilities in <b>Kerala Government web infrastructure</b> through <b>CERT-In</b>, receiving official case IDs for reported findings.
+      </li>
+    </ul>
+  </div>
 
-### 02/ CTF Competition – 1st Prize
-Secured **1st Prize** in a Capture The Flag (CTF) competition at **RedTeam Hacker Academy** as part of a three-member team, **Team 0day**.
+  <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0; width: 100%;" />
 
-### 03/ Top 4% Global Ranking – TryHackMe
-Achieved a position within the **Top 4% globally on TryHackMe**, demonstrating practical skills in penetration testing, web security, and cybersecurity challenges.
+  <!-- Achievement 2 -->
+  <div style="margin-bottom: 25px; text-align: left;">
+    <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
+      🏆 <code>02/ CTF Competition – 1st Prize</code>
+    </p>
+    <ul style="margin: 0; padding: 0; list-style-position: inside; list-style-type: square; text-align: left;">
+      <li style="margin-bottom: 4px; text-align: left;">
+        Secured <b>1st Prize</b> in a Capture The Flag (CTF) competition at <b>RedTeam Hacker Academy</b> as part of a three-member team, <b>Team 0day</b>.
+      </li>
+    </ul>
+  </div>
+
+  <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0; width: 100%;" />
+
+  <!-- Achievement 3 -->
+  <div style="margin-bottom: 25px; text-align: left;">
+    <p style="margin: 0; font-size: 1.1em; font-weight: bold; text-align: left;">
+      🎯 <code>03/ Top 4% Global Ranking – TryHackMe</code>
+    </p>
+    <ul style="margin: 0; padding: 0; list-style-position: inside; list-style-type: square; text-align: left;">
+      <li style="margin-bottom: 4px; text-align: left;">
+        Ranked within the <b>Top 4% globally on TryHackMe</b>, demonstrating practical engagement in penetration testing, web security, and cybersecurity challenges.
+      </li>
+    </ul>
+  </div>
 
 </div>
+
+<hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0; width: 100%;" />
 
 ---
 
