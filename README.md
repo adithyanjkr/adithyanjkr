@@ -102,12 +102,18 @@
 
 ---
 
-### 👨‍💻 Intelligence Platforms & Targets
+## 🏆 Achievements
 
 <div align="left">
 
-* 🎯 **Bug Hunting & Coordinated Disclosure:** **CERT-In** (Assigned Case IDs for Kerala Government Web Infrastructure validation), HackerOne, Bugcrowd, and huntr.
-* ⚔️ **Interactive Lab Operations:** Network Enumeration, Privilege Escalation, and Advanced Web Labs across **TryHackMe**, **HackTheBox**, and **PortSwigger Academy**.
+### 01/ Government Infrastructure Security Disclosures
+Independently identified and responsibly disclosed security vulnerabilities in **Kerala Government web infrastructure** through **CERT-In**, receiving official case IDs for reported findings.
+
+### 02/ CTF Competition – 1st Prize
+Secured **1st Prize** in a Capture The Flag (CTF) competition at **RedTeam Hacker Academy** as part of a three-member team, **Team 0day**.
+
+### 03/ Top 4% Global Ranking – TryHackMe
+Achieved a position within the **Top 4% globally on TryHackMe**, demonstrating practical skills in penetration testing, web security, and cybersecurity challenges.
 
 </div>
 
